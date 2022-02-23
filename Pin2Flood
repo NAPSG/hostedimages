@@ -5,4 +5,3 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/NAPSG/hostedimages.git
 git push -u origin main
-![Pin2Floodlogo](https://user-images.githubusercontent.com/31831585/155355011-771ba8ef-453f-4d79-aeeb-cff9e10bd375.jpg)
